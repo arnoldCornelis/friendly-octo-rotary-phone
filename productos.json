@@ -1,0 +1,35 @@
+[
+	{
+		"title": "Azucar",
+		"description": "Endulzante",
+		"code": "AB123",
+		"price": 100,
+		"status": true,
+		"stock": 50,
+		"category": "Comestibles",
+		"thumbnails": []
+	},
+	{
+		"title": "Edulcorante",
+		"description": "Endulzante",
+		"code": "CC2323",
+		"price": 100,
+		"status": true,
+		"stock": 50,
+		"category": "Comestibles",
+		"thumbnails": []
+	},
+	{
+		"title": "Notebook",
+		"description": "IT",
+		"code": "AB222",
+		"price": "180000",
+		"status": true,
+		"stock": "5",
+		"category": "Tecnología",
+		"thumbnails": [
+			"image-test-1.jpg",
+			"image-test-2.jpg"
+		]
+	}
+]
